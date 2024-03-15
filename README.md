@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sontbui&label=Profile%20views&color=0e75b6&style=flat" alt="Phan Hữu Thịnh" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=paintennn&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Phan Huu Thinh</h1>
