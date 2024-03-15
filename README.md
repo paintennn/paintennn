@@ -1,3 +1,6 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sontbui&label=Profile%20views&color=0e75b6&style=flat" alt="Phan Hữu Thịnh" /> </p>
+
+
 <h1 align="center">Hi 👋, I'm Phan Huu Thinh</h1>
 <h3 align="center">Welcome to my Github</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/7e/f8/c4/7ef8c486ba15bdd66c1dbc4f2b48465c.gif">
