@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Open University**
 
-- 🌱 I’m currently learning **Python, Java, C#**
+- 🌱 I’m currently learning **JavaScript, ReactJs, Flutter**
 
 - 📫 How to reach me **thinhphan1171@gmail.com**
 
